@@ -15,7 +15,7 @@ Aquí encontrarás ejemplos prácticos de mi trabajo, que reflejan mis habilidad
   Implementación de modelos predictivos y de clasificación con **Scikit-learn**, **TensorFlow** y **Keras**.  
 
 - 📈 **Visualización de Datos:**  
-  Dashboards interactivos creados con **Power BI**, **Tableau** y bibliotecas de Python como **Plotly**.  
+  Dashboards interactivos creados con **Power BI**, **Looker Studio** y bibliotecas de Python como **Colab, Visual Studio Code**.  
 
 - ⚙️ **Scripts y Automatización:**  
   Soluciones de manipulación de datos, creación de pipelines y automatización de procesos.  
