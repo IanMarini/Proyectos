@@ -1,0 +1,209 @@
+📌 Número total de fallecidos por año
+🔹 Suma los fallecidos por cada año y los ordena de manera ascendente para ver el total de muertes por año.
+
+SELECT `Año Incidente`, SUM(`Número Fallecidos`) AS Total_Fallecidos
+FROM GDDM
+GROUP BY `Año Incidente`
+ORDER BY `Año Incidente`;
+
+
+📌 10 países con más fallecidos
+🔹 Muestra los 10 países con más fallecidos en los incidentes, ordenados de mayor a menor.
+SELECT `País Origen`, SUM(`Número Fallecidos`) AS Total_Fallecidos
+FROM GDDM
+GROUP BY `País Origen`
+ORDER BY Total_Fallecidos DESC
+LIMIT 10;
+
+
+📌 Incidentes con más fallecidos y desaparecidos combinados
+🔹 Muestra los 10 incidentes con más fallecidos y desaparecidos combinados, ordenados de mayor a menor.
+
+SELECT `ID`, `Año Incidente`, `País Origen`, `Número Total de Fallecidos y Desaparecidos`
+FROM GDDM
+ORDER BY `Número Total de Fallecidos y Desaparecidos` DESC
+LIMIT 10;
+
+
+📌 Número total de fallecidos por causa de muerte
+🔹 Agrupa las muertes por causa, sumando los fallecidos para cada causa, y las ordena por el total de muertes.
+
+SELECT `Causa Muerte`, SUM(`Número Fallecidos`) AS Total_Fallecidos
+FROM GDDM
+GROUP BY `Causa Muerte`
+ORDER BY Total_Fallecidos DESC;
+
+
+📌 5 rutas migratorias con más fallecidos
+🔹 Muestra las 5 rutas migratorias con más fallecidos, sumando las muertes de cada ruta y ordenando de mayor a menor.
+
+SELECT `Ruta Migratoria`, SUM(`Número Fallecidos`) AS Total_Fallecidos
+FROM GDDM
+GROUP BY `Ruta Migratoria`
+ORDER BY Total_Fallecidos DESC
+LIMIT 5;
+
+
+📌 Las 5 rutas migratorias más peligrosas (fallecidos respecto a desaparecidos y sobrevivientes)
+🔹 Calcula el porcentaje de fallecidos sobre el total de afectados (fallecidos + sobrevivientes + desaparecidos) en cada ruta migratoria, y las ordena de la más peligrosa a la menos peligrosa.
+
+SELECT `Ruta Migratoria`, 
+       SUM(`Número Fallecidos`) AS Total_Fallecidos,
+       SUM(`Número Mínimo Estimado de Desaparecidos`) AS Total_Desaparecidos,
+       SUM(`Número Sobrevivientes`) AS Total_Sobrevivientes,
+       (SUM(`Número Fallecidos`) / NULLIF(SUM(`Número Fallecidos`) + SUM(`Número Sobrevivientes`) + SUM(`Número Mínimo Estimado de Desaparecidos`), 0)) * 100 AS Peligrosidad
+FROM GDDM
+GROUP BY `Ruta Migratoria`
+ORDER BY Peligrosidad DESC
+LIMIT 5;
+
+
+📌 Año con la mayor tasa de mortalidad (fallecidos respecto a sobrevivientes)
+🔹 Muestra el año con la mayor proporción de fallecidos sobre sobrevivientes, calculando la tasa de mortalidad por año.
+   Se calcula la tasa de mortalidad dividiendo los fallecidos por el total de afectados (fallecidos + sobrevivientes).
+
+SELECT `Año Incidente`, 
+       SUM(`Número Fallecidos`) AS Total_Fallecidos,
+       SUM(`Número Sobrevivientes`) AS Total_Sobrevivientes,
+       (SUM(`Número Fallecidos`) / NULLIF(SUM(`Número Fallecidos`) + SUM(`Número Sobrevivientes`), 0)) * 100 AS Tasa_Mortalidad
+FROM GDDM
+GROUP BY `Año Incidente`
+ORDER BY Tasa_Mortalidad DESC;
+
+
+📌 Región con mayor tasa de fallecimientos sobre el total de afectados
+🔹 Determina en qué región la proporción de fallecidos es más alta en relación con los sobrevivientes.
+   Calcula la tasa de fallecidos sobre el total de afectados (fallecidos + sobrevivientes) en cada región, ordenándolas por la tasa de mortalidad.
+
+SELECT `Región Incidente`, 
+       SUM(`Número Fallecidos`) AS Total_Fallecidos,
+       SUM(`Número Sobrevivientes`) AS Total_Sobrevivientes,
+       SUM(`Número Fallecidos`) + SUM(`Número Sobrevivientes`) AS Total_Afectados,
+       (SUM(`Número Fallecidos`) / NULLIF(SUM(`Número Fallecidos`) + SUM(`Número Sobrevivientes`), 0)) * 100 AS Tasa_Fallecimiento
+FROM GDDM
+GROUP BY `Región Incidente`
+ORDER BY Tasa_Fallecimiento DESC;
+
+
+📌 Meses con más fallecimientos en toda la historia
+🔹 Permite identificar en qué meses del año ocurren más muertes.
+   Suma los fallecimientos de cada mes a lo largo de la historia y los ordena para ver cuáles meses han tenido más muertes.
+
+SELECT `Mes Reportado`, 
+       SUM(`Número Fallecidos`) AS Total_Fallecidos
+FROM GDDM
+GROUP BY `Mes Reportado`
+ORDER BY Total_Fallecidos DESC;
+
+
+📌 Países con el mayor porcentaje de desaparecidos respecto al total de afectados
+🔹 Calcula qué países tienen mayor porcentaje de desaparecidos respecto al total de víctimas.
+
+SELECT `País Origen`, 
+       SUM(`Número Fallecidos`) AS Total_Fallecidos,
+       SUM(`Número Mínimo Estimado de Desaparecidos`) AS Total_Desaparecidos,
+       (SUM(`Número Mínimo Estimado de Desaparecidos`) / NULLIF(SUM(`Número Fallecidos`) + SUM(`Número Mínimo Estimado de Desaparecidos`), 0)) * 100 AS Porcentaje_Desaparecidos
+FROM GDDM
+GROUP BY `País Origen`
+ORDER BY Porcentaje_Desaparecidos DESC
+LIMIT 10;
+
+
+📌 Mayor cantidad de fallecidos en un solo incidente (Top 10)
+🔹 Extrae los 10 incidentes con más fallecidos en un solo evento.
+   Se muestra el país de origen, la cantidad de muertos y el lugar exacto.
+
+SELECT `ID`, `Año Incidente`, `País Origen`, `Número Fallecidos`, `Ubicación Muerte`
+FROM GDDM
+ORDER BY `Número Fallecidos` DESC
+LIMIT 10;
+
+
+📌  Causas de muerte en diferentes regiones:
+🔹  Muestra cómo las causas de muerte se distribuyen en diferentes regiones, considerando el género y la edad de las víctimas.
+
+SELECT
+    `Región Origen`,
+    `Causa Muerte`,
+    COUNT(*) AS Contador_Muertes,
+    SUM(`Número Mujeres`) AS Total_Mujeres,
+    SUM(`Número Hombres`) AS Total_Hombres,
+    SUM(`Número Niños`) AS Total_Niños,
+    ROUND(AVG(`Número Fallecidos`), 2) AS Promedio_Incidente
+FROM GDDM
+WHERE `Causa Muerte` IS NOT NULL
+GROUP BY `Región Origen`, `Causa Muerte`
+ORDER BY Contador_Muertes DESC;
+
+
+📌  Comparación de mortalidad entre rutas migratorias:
+🔹  Aquí analizamos la mortalidad en función de las rutas migratorias, incluyendo el número de fallecidos y desaparecidos, desglosado por género y edad.
+
+SELECT
+    `Ruta Migratoria`,
+    SUM(`Número Fallecidos`) AS Contador_Muertes,
+    SUM(`Número Total de Fallecidos y Desaparecidos`) AS Desaparecidos,
+    SUM(`Número Mujeres`) AS Mujeres,
+    SUM(`Número Hombres`) AS Hombres,
+    SUM(`Número Niños`) AS Menores
+FROM GDDM
+WHERE `Ruta Migratoria` IS NOT NULL
+GROUP BY `Ruta Migratoria`
+ORDER BY Contador_Muertes DESC;
+
+
+📌  Correlación entre ubicación de muerte y número de desaparecidos:
+🔹  Esta consulta ayudará a correlacionar las ubicaciones de los incidentes con el número de personas desaparecidas, considerando también los fallecimientos.
+
+SELECT
+    `Ubicación Muerte`,
+    COUNT(*) AS Total_Incidents,
+    SUM(`Número Fallecidos`) AS Contador_Muertes,
+    SUM(`Número Total de Fallecidos y Desaparecidos`) AS Muertos_Desaparecidos,
+    ROUND(AVG(`Número Total de Fallecidos y Desaparecidos`), 2) AS Promedio
+FROM GDDM
+WHERE `Ubicación Muerte` IS NOT NULL
+GROUP BY `Ubicación Muerte`
+HAVING Muertos_Desaparecidos > 0
+ORDER BY Muertos_Desaparecidos DESC;
+
+
+📌  Análisis temporal de incidentes:
+🔹  Esta consulta te ayudará a observar las tendencias en los incidentes a lo largo del tiempo, basándose en el año y mes del incidente.
+
+SELECT
+    `Año Incidente` AS Año,
+    CASE `Mes Reportado`
+        WHEN 'Enero' THEN 1
+        WHEN 'Febrero' THEN 2
+        WHEN 'Marzo' THEN 3
+        WHEN 'Abril' THEN 4
+        WHEN 'Mayo' THEN 5
+        WHEN 'Junio' THEN 6
+        WHEN 'Julio' THEN 7
+        WHEN 'Agosto' THEN 8
+        WHEN 'Septiembre' THEN 9
+        WHEN 'Octubre' THEN 10
+        WHEN 'Noviembre' THEN 11
+        WHEN 'Diciembre' THEN 12
+        ELSE NULL
+    END AS Mes,
+    SUM(`Número Fallecidos`) AS Contador,
+    SUM(`Número Mínimo Estimado de Desaparecidos`) AS Estimado_Desaparecidos
+FROM GDDM
+GROUP BY `Año Incidente`, Mes
+ORDER BY `Año Incidente`, Mes;
+
+
+📌  Análisis de la mortalidad por género y edad en diferentes países de origen:
+🔹  Esta consulta desglosa la mortalidad por género y edad, considerando también el país de origen de los afectados.
+
+SELECT
+    `País Origen`,
+    SUM(`Número Mujeres`) AS Mujeres,
+    SUM(`Número Hombres`) AS Hombres,
+    SUM(`Número Niños`) AS Niños,
+    SUM(`Número Total de Fallecidos y Desaparecidos`) AS Muertos_Desaparecidos
+FROM GDDM
+GROUP BY `País Origen`
+ORDER BY Muertos_Desaparecidos DESC;
