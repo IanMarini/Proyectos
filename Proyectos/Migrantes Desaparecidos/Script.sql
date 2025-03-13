@@ -68,11 +68,14 @@ ORDER BY Total_Fallecidos DESC;
 
 
 SELECT `País Origen`, 
-       SUM(`Número Fallecidos`) AS Total_Fallecidos,
-       SUM(`Número Mínimo Estimado de Desaparecidos`) AS Total_Desaparecidos,
-       (SUM(`Número Mínimo Estimado de Desaparecidos`) / NULLIF(SUM(`Número Fallecidos`) + SUM(`Número Mínimo Estimado de Desaparecidos`), 0)) * 100 AS Porcentaje_Desaparecidos
+       SUM(COALESCE(`Número Fallecidos`, 0)) AS Total_Fallecidos,
+       SUM(COALESCE(`Número Mínimo Estimado de Desaparecidos`, 0)) AS Total_Desaparecidos,
+       (SUM(COALESCE(`Número Mínimo Estimado de Desaparecidos`, 0)) / 
+        NULLIF(SUM(COALESCE(`Número Fallecidos`, 0)) + SUM(COALESCE(`Número Mínimo Estimado de Desaparecidos`, 0)), 0)) * 100 AS Porcentaje_Desaparecidos
 FROM GDDM
 GROUP BY `País Origen`
+HAVING Total_Fallecidos > 5  -- Filtrar países con al menos 5 fallecidos
+   AND Total_Desaparecidos > 0  -- Evitar filas sin desaparecidos
 ORDER BY Porcentaje_Desaparecidos DESC
 LIMIT 10;
 
