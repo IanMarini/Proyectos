@@ -1,0 +1,250 @@
+﻿ID,Tipo Vehículo,Modelo,Fecha Venta,Precio Venta,Agente Ventas,Región,Sucursal,Estado Entrega,Ventas 2023,Ventas 2024
+1,SUV,Ford Escape,23/11/2024,"73.268,00 USD",Mateo Luque,Mendoza,Sucursal Norte,Retrasado,0,"73.268,00 USD"
+2,Camioneta,Ford Ranger,30/05/2023,"48.470,00 USD",Diego Ricci,Rosario,Sucursal Centro,A Tiempo,"48.470,00 USD",0
+3,Sedán,Honda Civic,22/10/2023,"60.651,00 USD",Mateo Luque,Córdoba,Sucursal Centro,Retrasado,"60.651,00 USD",0
+4,Sedán,Chevrolet Cruze,12/12/2023,"66.372,00 USD",Ana López,Córdoba,Sucursal Sur,Retrasado,"66.372,00 USD",0
+5,SUV,Ford Escape,12/06/2024,"88.354,00 USD",Sofía Gonazalez,Buenos Aires,Sucursal Centro,Retrasado,0,"88.354,00 USD"
+6,Camioneta,Ford Ranger,30/01/2023,"70.101,00 USD",Carlos García,Córdoba,Sucursal Norte,Retrasado,"70.101,00 USD",0
+7,SUV,Chevrolet Tahoe,11/04/2023,"66.260,00 USD",Mateo Luque,Rosario,Sucursal Este,Retrasado,"66.260,00 USD",0
+8,Camioneta,Toyota Hilux,18/07/2023,"35.272,00 USD",María Torres,Buenos Aires,Sucursal Centro,Retrasado,"35.272,00 USD",0
+9,Camioneta,Chevrolet S10,07/07/2024,"76.305,00 USD",Laura Díaz,Mendoza,Sucursal Norte,Retrasado,0,"76.305,00 USD"
+10,Sedán,Chevrolet Cruze,06/06/2024,"78.325,00 USD",Laura Díaz,Rosario,Sucursal Centro,A Tiempo,0,"78.325,00 USD"
+11,Sedán,Chevrolet Cruze,11/12/2024,"44.100,00 USD",Laura Díaz,Mendoza,Sucursal Sur,A Tiempo,0,"44.100,00 USD"
+12,Camioneta,Toyota Hilux,31/10/2024,"34.527,00 USD",Mateo Luque,Buenos Aires,Sucursal Norte,Retrasado,0,"34.527,00 USD"
+13,Sedán,Chevrolet Cruze,19/11/2023,"90.857,00 USD",Ana López,Buenos Aires,Sucursal Este,A Tiempo,"90.857,00 USD",0
+14,SUV,Ford Escape,28/04/2023,"89.328,00 USD",Mateo Luque,Rosario,Sucursal Centro,A Tiempo,"89.328,00 USD",0
+15,SUV,Ford Escape,04/07/2024,"62.699,00 USD",Laura Díaz,Rosario,Sucursal Oeste,Retrasado,0,"62.699,00 USD"
+16,Camioneta,Chevrolet S10,20/05/2023,"45.927,00 USD",Laura Díaz,Córdoba,Sucursal Oeste,Retrasado,"45.927,00 USD",0
+17,Sedán,Toyota Corolla,14/08/2024,"42.345,00 USD",Ana López,Rosario,Sucursal Norte,A Tiempo,0,"42.345,00 USD"
+18,Camioneta,Chevrolet S10,13/12/2023,"32.964,00 USD",Diego Ricci,Córdoba,Sucursal Norte,A Tiempo,"32.964,00 USD",0
+19,Sedán,Chevrolet Cruze,18/12/2024,"31.997,00 USD",Carlos García,Córdoba,Sucursal Este,A Tiempo,0,"31.997,00 USD"
+20,Camioneta,Chevrolet S10,26/03/2023,"42.122,00 USD",Mateo Luque,Córdoba,Sucursal Norte,A Tiempo,"42.122,00 USD",0
+21,Sedán,Chevrolet Cruze,15/07/2024,"33.303,00 USD",Diego Ricci,Buenos Aires,Sucursal Norte,A Tiempo,0,"33.303,00 USD"
+22,Camioneta,Ford Ranger,24/02/2024,"58.578,00 USD",Carlos García,Buenos Aires,Sucursal Norte,Retrasado,0,"58.578,00 USD"
+23,Sedán,Honda Civic,19/04/2024,"46.129,00 USD",Carlos García,Mendoza,Sucursal Norte,A Tiempo,0,"46.129,00 USD"
+24,Camioneta,Ford Ranger,24/02/2023,"80.288,00 USD",Sofía Gonazalez,Mendoza,Sucursal Centro,A Tiempo,"80.288,00 USD",0
+25,Sedán,Toyota Corolla,20/10/2024,"35.363,00 USD",Mateo Luque,Buenos Aires,Sucursal Este,Retrasado,0,"35.363,00 USD"
+26,SUV,Chevrolet Tahoe,07/02/2024,"89.494,00 USD",Ana López,Buenos Aires,Sucursal Norte,Retrasado,0,"89.494,00 USD"
+27,Camioneta,Ford Ranger,29/08/2024,"66.739,00 USD",Ana López,Rosario,Sucursal Oeste,Retrasado,0,"66.739,00 USD"
+28,Sedán,Toyota Corolla,06/11/2024,"37.673,00 USD",Diego Ricci,Córdoba,Sucursal Sur,A Tiempo,0,"37.673,00 USD"
+29,Camioneta,Toyota Hilux,07/04/2024,"68.684,00 USD",Mateo Luque,Mendoza,Sucursal Sur,Retrasado,0,"68.684,00 USD"
+30,Sedán,Honda Civic,20/12/2023,"20.199,00 USD",Ana López,Rosario,Sucursal Oeste,Retrasado,"20.199,00 USD",0
+31,Camioneta,Toyota Hilux,26/07/2023,"71.772,00 USD",Ana López,Rosario,Sucursal Este,A Tiempo,"71.772,00 USD",0
+32,SUV,Chevrolet Tahoe,10/09/2024,"85.302,00 USD",Diego Ricci,Mendoza,Sucursal Norte,Retrasado,0,"85.302,00 USD"
+33,Sedán,Toyota Corolla,12/11/2023,"78.505,00 USD",María Torres,Mendoza,Sucursal Norte,Retrasado,"78.505,00 USD",0
+34,SUV,Chevrolet Tahoe,21/08/2024,"70.225,00 USD",Laura Díaz,Córdoba,Sucursal Norte,Retrasado,0,"70.225,00 USD"
+35,SUV,Chevrolet Tahoe,17/12/2023,"60.482,00 USD",Carlos García,Mendoza,Sucursal Este,A Tiempo,"60.482,00 USD",0
+36,SUV,Ford Escape,27/02/2023,"60.468,00 USD",Ana López,Mendoza,Sucursal Sur,A Tiempo,"60.468,00 USD",0
+37,Sedán,Toyota Corolla,01/05/2023,"59.638,00 USD",Mateo Luque,Córdoba,Sucursal Este,A Tiempo,"59.638,00 USD",0
+38,Camioneta,Ford Ranger,08/02/2024,"71.132,00 USD",Ana López,Buenos Aires,Sucursal Norte,Retrasado,0,"71.132,00 USD"
+39,Sedán,Chevrolet Cruze,10/10/2024,"37.487,00 USD",Carlos García,Rosario,Sucursal Oeste,A Tiempo,0,"37.487,00 USD"
+40,Camioneta,Chevrolet S10,29/01/2023,"32.664,00 USD",Carlos García,Buenos Aires,Sucursal Sur,A Tiempo,"32.664,00 USD",0
+41,Camioneta,Toyota Hilux,15/12/2024,"67.189,00 USD",Ana López,Rosario,Sucursal Centro,Retrasado,0,"67.189,00 USD"
+42,Sedán,Toyota Corolla,26/11/2024,"90.507,00 USD",Mateo Luque,Mendoza,Sucursal Oeste,Retrasado,0,"90.507,00 USD"
+43,Sedán,Honda Civic,23/09/2023,"38.147,00 USD",María Torres,Mendoza,Sucursal Centro,Retrasado,"38.147,00 USD",0
+44,Sedán,Honda Civic,09/05/2023,"64.335,00 USD",Sofía Gonazalez,Rosario,Sucursal Sur,Retrasado,"64.335,00 USD",0
+45,Sedán,Toyota Corolla,02/07/2024,"67.304,00 USD",Carlos García,Rosario,Sucursal Este,A Tiempo,0,"67.304,00 USD"
+46,SUV,Ford Escape,05/08/2024,"83.937,00 USD",Laura Díaz,Buenos Aires,Sucursal Sur,A Tiempo,0,"83.937,00 USD"
+47,Camioneta,Toyota Hilux,09/02/2024,"56.422,00 USD",Carlos García,Rosario,Sucursal Este,A Tiempo,0,"56.422,00 USD"
+48,Camioneta,Chevrolet S10,17/05/2024,"61.064,00 USD",Sofía Gonazalez,Mendoza,Sucursal Norte,A Tiempo,0,"61.064,00 USD"
+49,Camioneta,Chevrolet S10,18/06/2023,"75.848,00 USD",Mateo Luque,Rosario,Sucursal Norte,Retrasado,"75.848,00 USD",0
+50,SUV,Chevrolet Tahoe,03/05/2023,"65.457,00 USD",Diego Ricci,Córdoba,Sucursal Sur,Retrasado,"65.457,00 USD",0
+51,SUV,Ford Escape,28/08/2023,"84.571,00 USD",Mateo Luque,Córdoba,Sucursal Norte,A Tiempo,"84.571,00 USD",0
+52,Camioneta,Toyota Hilux,05/09/2024,"66.469,00 USD",Carlos García,Mendoza,Sucursal Norte,A Tiempo,0,"66.469,00 USD"
+53,Camioneta,Ford Ranger,20/12/2024,"35.482,00 USD",Diego Ricci,Mendoza,Sucursal Centro,A Tiempo,0,"35.482,00 USD"
+54,Camioneta,Chevrolet S10,20/03/2024,"42.579,00 USD",María Torres,Rosario,Sucursal Centro,A Tiempo,0,"42.579,00 USD"
+55,Camioneta,Chevrolet S10,03/08/2023,"37.792,00 USD",Carlos García,Córdoba,Sucursal Norte,Retrasado,"37.792,00 USD",0
+56,SUV,Chevrolet Tahoe,05/07/2024,"80.428,00 USD",Diego Ricci,Rosario,Sucursal Este,A Tiempo,0,"80.428,00 USD"
+57,Sedán,Honda Civic,20/06/2024,"91.616,00 USD",Carlos García,Buenos Aires,Sucursal Oeste,Retrasado,0,"91.616,00 USD"
+58,Sedán,Honda Civic,01/12/2024,"88.318,00 USD",Carlos García,Mendoza,Sucursal Este,Retrasado,0,"88.318,00 USD"
+59,SUV,Chevrolet Tahoe,22/07/2023,"77.786,00 USD",Ana López,Rosario,Sucursal Oeste,Retrasado,"77.786,00 USD",0
+60,Camioneta,Toyota Hilux,12/04/2023,"64.413,00 USD",Carlos García,Rosario,Sucursal Sur,Retrasado,"64.413,00 USD",0
+61,Sedán,Honda Civic,25/01/2024,"58.585,00 USD",Mateo Luque,Rosario,Sucursal Centro,A Tiempo,0,"58.585,00 USD"
+62,SUV,Chevrolet Tahoe,09/11/2023,"67.375,00 USD",Carlos García,Córdoba,Sucursal Centro,A Tiempo,"67.375,00 USD",0
+63,Sedán,Honda Civic,22/12/2024,"41.061,00 USD",Carlos García,Rosario,Sucursal Norte,Retrasado,0,"41.061,00 USD"
+64,Sedán,Honda Civic,02/08/2023,"31.881,00 USD",Mateo Luque,Mendoza,Sucursal Sur,Retrasado,"31.881,00 USD",0
+65,Sedán,Chevrolet Cruze,21/12/2024,"83.204,00 USD",Ana López,Mendoza,Sucursal Este,Retrasado,0,"83.204,00 USD"
+66,SUV,Ford Escape,06/01/2023,"69.910,00 USD",Laura Díaz,Buenos Aires,Sucursal Norte,A Tiempo,"69.910,00 USD",0
+67,Camioneta,Ford Ranger,06/02/2024,"80.625,00 USD",Sofía Gonazalez,Córdoba,Sucursal Oeste,Retrasado,0,"80.625,00 USD"
+68,SUV,Ford Escape,07/10/2023,"67.829,00 USD",Diego Ricci,Mendoza,Sucursal Norte,A Tiempo,"67.829,00 USD",0
+69,Camioneta,Ford Ranger,24/11/2024,"57.385,00 USD",Ana López,Rosario,Sucursal Norte,A Tiempo,0,"57.385,00 USD"
+70,Sedán,Honda Civic,03/06/2024,"24.611,00 USD",Diego Ricci,Córdoba,Sucursal Este,Retrasado,0,"24.611,00 USD"
+71,SUV,Chevrolet Tahoe,02/10/2024,"85.498,00 USD",Diego Ricci,Mendoza,Sucursal Norte,A Tiempo,0,"85.498,00 USD"
+72,Sedán,Honda Civic,02/11/2024,"33.800,00 USD",Carlos García,Córdoba,Sucursal Centro,A Tiempo,0,"33.800,00 USD"
+73,Camioneta,Chevrolet S10,01/11/2023,"69.984,00 USD",María Torres,Mendoza,Sucursal Oeste,A Tiempo,"69.984,00 USD",0
+74,SUV,Chevrolet Tahoe,17/09/2023,"89.877,00 USD",Laura Díaz,Rosario,Sucursal Norte,Retrasado,"89.877,00 USD",0
+75,SUV,Ford Escape,31/08/2023,"85.628,00 USD",Mateo Luque,Rosario,Sucursal Norte,A Tiempo,"85.628,00 USD",0
+76,SUV,Ford Escape,01/01/2024,"85.872,00 USD",Diego Ricci,Rosario,Sucursal Este,Retrasado,0,"85.872,00 USD"
+77,Sedán,Chevrolet Cruze,30/08/2023,"88.165,00 USD",Carlos García,Córdoba,Sucursal Oeste,Retrasado,"88.165,00 USD",0
+78,Camioneta,Toyota Hilux,10/07/2024,"37.434,00 USD",María Torres,Córdoba,Sucursal Centro,Retrasado,0,"37.434,00 USD"
+79,Sedán,Honda Civic,17/11/2024,"28.247,00 USD",Diego Ricci,Mendoza,Sucursal Norte,A Tiempo,0,"28.247,00 USD"
+80,Sedán,Chevrolet Cruze,02/12/2024,"74.659,00 USD",Diego Ricci,Buenos Aires,Sucursal Norte,Retrasado,0,"74.659,00 USD"
+81,Sedán,Toyota Corolla,09/05/2024,"29.218,00 USD",Diego Ricci,Rosario,Sucursal Sur,A Tiempo,0,"29.218,00 USD"
+82,Sedán,Chevrolet Cruze,05/04/2023,"21.306,00 USD",Sofía Gonazalez,Córdoba,Sucursal Sur,Retrasado,"21.306,00 USD",0
+83,Camioneta,Toyota Hilux,11/10/2023,"30.211,00 USD",Mateo Luque,Rosario,Sucursal Norte,A Tiempo,"30.211,00 USD",0
+84,Camioneta,Toyota Hilux,06/05/2024,"75.184,00 USD",Ana López,Córdoba,Sucursal Norte,Retrasado,0,"75.184,00 USD"
+85,Sedán,Toyota Corolla,30/09/2024,"34.731,00 USD",Laura Díaz,Buenos Aires,Sucursal Este,A Tiempo,0,"34.731,00 USD"
+86,SUV,Chevrolet Tahoe,05/12/2023,"71.869,00 USD",Sofía Gonazalez,Rosario,Sucursal Este,A Tiempo,"71.869,00 USD",0
+87,Camioneta,Chevrolet S10,25/01/2023,"68.864,00 USD",Diego Ricci,Rosario,Sucursal Sur,Retrasado,"68.864,00 USD",0
+88,Sedán,Chevrolet Cruze,16/03/2023,"36.414,00 USD",Carlos García,Rosario,Sucursal Este,Retrasado,"36.414,00 USD",0
+89,Camioneta,Toyota Hilux,12/12/2024,"54.409,00 USD",Sofía Gonazalez,Buenos Aires,Sucursal Este,A Tiempo,0,"54.409,00 USD"
+90,SUV,Ford Escape,08/08/2024,"62.553,00 USD",Ana López,Córdoba,Sucursal Este,A Tiempo,0,"62.553,00 USD"
+91,Sedán,Chevrolet Cruze,28/03/2023,"75.337,00 USD",María Torres,Mendoza,Sucursal Sur,Retrasado,"75.337,00 USD",0
+92,Camioneta,Ford Ranger,02/04/2024,"71.469,00 USD",Ana López,Rosario,Sucursal Norte,A Tiempo,0,"71.469,00 USD"
+93,Camioneta,Chevrolet S10,03/11/2023,"57.343,00 USD",Ana López,Córdoba,Sucursal Oeste,Retrasado,"57.343,00 USD",0
+94,Camioneta,Chevrolet S10,25/02/2024,"35.967,00 USD",Diego Ricci,Buenos Aires,Sucursal Sur,Retrasado,0,"35.967,00 USD"
+95,Sedán,Honda Civic,08/11/2023,"78.479,00 USD",Mateo Luque,Córdoba,Sucursal Sur,A Tiempo,"78.479,00 USD",0
+96,SUV,Ford Escape,30/07/2023,"74.858,00 USD",María Torres,Mendoza,Sucursal Oeste,A Tiempo,"74.858,00 USD",0
+97,Camioneta,Chevrolet S10,23/06/2023,"61.672,00 USD",Laura Díaz,Buenos Aires,Sucursal Sur,Retrasado,"61.672,00 USD",0
+98,Camioneta,Toyota Hilux,25/02/2023,"44.334,00 USD",Sofía Gonazalez,Córdoba,Sucursal Oeste,Retrasado,"44.334,00 USD",0
+99,Camioneta,Ford Ranger,02/02/2024,"76.287,00 USD",Carlos García,Rosario,Sucursal Centro,A Tiempo,0,"76.287,00 USD"
+100,SUV,Chevrolet Tahoe,04/05/2024,"80.711,00 USD",Carlos García,Mendoza,Sucursal Este,Retrasado,0,"80.711,00 USD"
+101,Sedán,Toyota Corolla,05/12/2024,"72.222,00 USD",Carlos García,Rosario,Sucursal Norte,A Tiempo,0,"72.222,00 USD"
+102,SUV,Ford Escape,16/07/2024,"88.550,00 USD",Diego Ricci,Córdoba,Sucursal Sur,Retrasado,0,"88.550,00 USD"
+103,Camioneta,Toyota Hilux,28/12/2024,"50.028,00 USD",Laura Díaz,Córdoba,Sucursal Norte,A Tiempo,0,"50.028,00 USD"
+104,Camioneta,Chevrolet S10,09/07/2024,"48.985,00 USD",Carlos García,Buenos Aires,Sucursal Este,A Tiempo,0,"48.985,00 USD"
+105,Camioneta,Ford Ranger,12/02/2023,"56.922,00 USD",Laura Díaz,Buenos Aires,Sucursal Centro,A Tiempo,"56.922,00 USD",0
+106,SUV,Ford Escape,27/04/2024,"78.619,00 USD",Ana López,Rosario,Sucursal Sur,Retrasado,0,"78.619,00 USD"
+107,Sedán,Honda Civic,02/08/2024,"81.334,00 USD",María Torres,Córdoba,Sucursal Norte,Retrasado,0,"81.334,00 USD"
+108,Sedán,Honda Civic,23/04/2024,"48.575,00 USD",Laura Díaz,Rosario,Sucursal Sur,Retrasado,0,"48.575,00 USD"
+109,SUV,Chevrolet Tahoe,01/10/2024,"69.836,00 USD",Diego Ricci,Rosario,Sucursal Oeste,A Tiempo,0,"69.836,00 USD"
+110,Sedán,Honda Civic,03/02/2023,"66.583,00 USD",Ana López,Mendoza,Sucursal Norte,A Tiempo,"66.583,00 USD",0
+111,SUV,Chevrolet Tahoe,01/08/2023,"82.488,00 USD",Diego Ricci,Córdoba,Sucursal Centro,A Tiempo,"82.488,00 USD",0
+112,SUV,Ford Escape,10/05/2023,"68.858,00 USD",Carlos García,Rosario,Sucursal Norte,A Tiempo,"68.858,00 USD",0
+113,Camioneta,Ford Ranger,13/11/2023,"36.911,00 USD",Ana López,Buenos Aires,Sucursal Este,Retrasado,"36.911,00 USD",0
+114,SUV,Ford Escape,23/12/2024,"73.818,00 USD",Diego Ricci,Rosario,Sucursal Oeste,A Tiempo,0,"73.818,00 USD"
+115,SUV,Ford Escape,19/07/2023,"66.844,00 USD",María Torres,Mendoza,Sucursal Este,Retrasado,"66.844,00 USD",0
+116,Sedán,Honda Civic,19/03/2024,"71.057,00 USD",Diego Ricci,Rosario,Sucursal Oeste,Retrasado,0,"71.057,00 USD"
+117,Camioneta,Toyota Hilux,16/11/2023,"55.450,00 USD",Mateo Luque,Buenos Aires,Sucursal Oeste,A Tiempo,"55.450,00 USD",0
+118,Sedán,Toyota Corolla,24/08/2023,"42.724,00 USD",María Torres,Córdoba,Sucursal Este,Retrasado,"42.724,00 USD",0
+119,Camioneta,Toyota Hilux,31/07/2024,"80.556,00 USD",Laura Díaz,Rosario,Sucursal Centro,A Tiempo,0,"80.556,00 USD"
+120,Camioneta,Chevrolet S10,16/08/2024,"62.125,00 USD",Diego Ricci,Mendoza,Sucursal Norte,Retrasado,0,"62.125,00 USD"
+121,Camioneta,Ford Ranger,21/04/2024,"32.767,00 USD",Ana López,Mendoza,Sucursal Este,Retrasado,0,"32.767,00 USD"
+122,Sedán,Toyota Corolla,21/06/2024,"20.934,00 USD",Carlos García,Buenos Aires,Sucursal Sur,A Tiempo,0,"20.934,00 USD"
+123,Sedán,Honda Civic,05/02/2023,"79.467,00 USD",Carlos García,Mendoza,Sucursal Este,Retrasado,"79.467,00 USD",0
+124,Camioneta,Toyota Hilux,19/08/2024,"51.163,00 USD",Sofía Gonazalez,Córdoba,Sucursal Centro,A Tiempo,0,"51.163,00 USD"
+125,SUV,Chevrolet Tahoe,06/11/2023,"72.081,00 USD",Sofía Gonazalez,Rosario,Sucursal Norte,A Tiempo,"72.081,00 USD",0
+126,Sedán,Chevrolet Cruze,29/05/2024,"59.494,00 USD",María Torres,Rosario,Sucursal Este,A Tiempo,0,"59.494,00 USD"
+127,Camioneta,Ford Ranger,03/05/2024,"76.693,00 USD",Laura Díaz,Mendoza,Sucursal Sur,Retrasado,0,"76.693,00 USD"
+128,Camioneta,Toyota Hilux,13/08/2023,"60.207,00 USD",Carlos García,Rosario,Sucursal Centro,A Tiempo,"60.207,00 USD",0
+129,SUV,Chevrolet Tahoe,08/04/2024,"75.090,00 USD",Ana López,Mendoza,Sucursal Norte,Retrasado,0,"75.090,00 USD"
+130,SUV,Chevrolet Tahoe,23/04/2023,"87.075,00 USD",Carlos García,Córdoba,Sucursal Norte,A Tiempo,"87.075,00 USD",0
+131,Sedán,Honda Civic,12/03/2024,"93.270,00 USD",Diego Ricci,Buenos Aires,Sucursal Oeste,A Tiempo,0,"93.270,00 USD"
+132,SUV,Ford Escape,25/03/2023,"64.197,00 USD",Carlos García,Buenos Aires,Sucursal Este,Retrasado,"64.197,00 USD",0
+133,Camioneta,Ford Ranger,22/11/2024,"69.982,00 USD",Sofía Gonazalez,Rosario,Sucursal Oeste,A Tiempo,0,"69.982,00 USD"
+134,Camioneta,Toyota Hilux,13/03/2024,"47.861,00 USD",Ana López,Rosario,Sucursal Oeste,Retrasado,0,"47.861,00 USD"
+135,Camioneta,Toyota Hilux,13/01/2023,"78.030,00 USD",Carlos García,Córdoba,Sucursal Centro,A Tiempo,"78.030,00 USD",0
+136,SUV,Ford Escape,25/08/2024,"88.150,00 USD",María Torres,Buenos Aires,Sucursal Sur,A Tiempo,0,"88.150,00 USD"
+137,Sedán,Toyota Corolla,12/09/2024,"50.089,00 USD",Carlos García,Mendoza,Sucursal Sur,A Tiempo,0,"50.089,00 USD"
+138,Camioneta,Ford Ranger,10/04/2024,"45.309,00 USD",María Torres,Buenos Aires,Sucursal Norte,Retrasado,0,"45.309,00 USD"
+139,Camioneta,Chevrolet S10,16/07/2023,"83.067,00 USD",Ana López,Mendoza,Sucursal Sur,A Tiempo,"83.067,00 USD",0
+140,Sedán,Toyota Corolla,27/01/2023,"71.849,00 USD",Laura Díaz,Rosario,Sucursal Sur,A Tiempo,"71.849,00 USD",0
+141,Sedán,Honda Civic,04/02/2024,"94.645,00 USD",María Torres,Córdoba,Sucursal Este,A Tiempo,0,"94.645,00 USD"
+142,Camioneta,Toyota Hilux,02/09/2024,"69.878,00 USD",María Torres,Buenos Aires,Sucursal Este,Retrasado,0,"69.878,00 USD"
+143,Sedán,Honda Civic,21/10/2024,"84.120,00 USD",Ana López,Mendoza,Sucursal Norte,A Tiempo,0,"84.120,00 USD"
+144,SUV,Chevrolet Tahoe,20/02/2024,"86.517,00 USD",Sofía Gonazalez,Córdoba,Sucursal Este,A Tiempo,0,"86.517,00 USD"
+145,SUV,Chevrolet Tahoe,07/12/2023,"79.801,00 USD",Laura Díaz,Rosario,Sucursal Norte,Retrasado,"79.801,00 USD",0
+146,SUV,Ford Escape,28/02/2024,"61.939,00 USD",Ana López,Buenos Aires,Sucursal Sur,Retrasado,0,"61.939,00 USD"
+147,Camioneta,Toyota Hilux,24/12/2024,"73.806,00 USD",Carlos García,Rosario,Sucursal Este,Retrasado,0,"73.806,00 USD"
+148,Camioneta,Toyota Hilux,16/01/2023,"53.354,00 USD",Sofía Gonazalez,Rosario,Sucursal Este,Retrasado,"53.354,00 USD",0
+149,Sedán,Toyota Corolla,18/11/2024,"28.037,00 USD",Ana López,Buenos Aires,Sucursal Sur,A Tiempo,0,"28.037,00 USD"
+150,Sedán,Toyota Corolla,05/02/2024,"28.722,00 USD",María Torres,Córdoba,Sucursal Norte,A Tiempo,0,"28.722,00 USD"
+151,Sedán,Toyota Corolla,14/12/2024,"77.044,00 USD",Sofía Gonazalez,Mendoza,Sucursal Este,A Tiempo,0,"77.044,00 USD"
+152,Sedán,Honda Civic,22/09/2024,"70.157,00 USD",Sofía Gonazalez,Rosario,Sucursal Este,Retrasado,0,"70.157,00 USD"
+153,Sedán,Toyota Corolla,25/12/2023,"94.020,00 USD",Diego Ricci,Rosario,Sucursal Centro,Retrasado,"94.020,00 USD",0
+154,Sedán,Chevrolet Cruze,20/11/2023,"87.362,00 USD",Diego Ricci,Mendoza,Sucursal Este,A Tiempo,"87.362,00 USD",0
+155,Sedán,Honda Civic,29/07/2023,"22.880,00 USD",Carlos García,Rosario,Sucursal Este,A Tiempo,"22.880,00 USD",0
+156,Sedán,Honda Civic,25/09/2023,"79.966,00 USD",Ana López,Buenos Aires,Sucursal Norte,Retrasado,"79.966,00 USD",0
+157,Sedán,Honda Civic,31/05/2024,"23.573,00 USD",Laura Díaz,Córdoba,Sucursal Sur,Retrasado,0,"23.573,00 USD"
+158,Sedán,Toyota Corolla,22/11/2023,"80.046,00 USD",Diego Ricci,Córdoba,Sucursal Sur,Retrasado,"80.046,00 USD",0
+159,Camioneta,Toyota Hilux,23/09/2024,"47.684,00 USD",Laura Díaz,Rosario,Sucursal Este,Retrasado,0,"47.684,00 USD"
+160,SUV,Chevrolet Tahoe,22/07/2024,"61.144,00 USD",Diego Ricci,Córdoba,Sucursal Sur,Retrasado,0,"61.144,00 USD"
+161,Camioneta,Ford Ranger,18/04/2023,"56.462,00 USD",Ana López,Córdoba,Sucursal Oeste,Retrasado,"56.462,00 USD",0
+162,Camioneta,Chevrolet S10,12/07/2023,"46.640,00 USD",Diego Ricci,Córdoba,Sucursal Norte,Retrasado,"46.640,00 USD",0
+163,Camioneta,Ford Ranger,12/11/2024,"84.683,00 USD",Ana López,Buenos Aires,Sucursal Centro,Retrasado,0,"84.683,00 USD"
+164,Camioneta,Ford Ranger,02/04/2023,"68.413,00 USD",María Torres,Córdoba,Sucursal Centro,Retrasado,"68.413,00 USD",0
+165,Camioneta,Chevrolet S10,26/11/2023,"67.019,00 USD",María Torres,Buenos Aires,Sucursal Sur,A Tiempo,"67.019,00 USD",0
+166,Sedán,Honda Civic,24/03/2024,"84.862,00 USD",Sofía Gonazalez,Rosario,Sucursal Sur,Retrasado,0,"84.862,00 USD"
+167,SUV,Ford Escape,16/12/2024,"78.631,00 USD",Laura Díaz,Mendoza,Sucursal Este,A Tiempo,0,"78.631,00 USD"
+168,Sedán,Toyota Corolla,20/09/2024,"53.764,00 USD",Diego Ricci,Buenos Aires,Sucursal Sur,A Tiempo,0,"53.764,00 USD"
+169,Camioneta,Toyota Hilux,18/08/2023,"34.147,00 USD",Carlos García,Mendoza,Sucursal Sur,A Tiempo,"34.147,00 USD",0
+170,Sedán,Honda Civic,16/11/2024,"54.833,00 USD",Laura Díaz,Córdoba,Sucursal Centro,Retrasado,0,"54.833,00 USD"
+171,Camioneta,Ford Ranger,11/06/2024,"65.249,00 USD",Sofía Gonazalez,Córdoba,Sucursal Oeste,Retrasado,0,"65.249,00 USD"
+172,Camioneta,Chevrolet S10,14/08/2023,"79.155,00 USD",Sofía Gonazalez,Buenos Aires,Sucursal Oeste,A Tiempo,"79.155,00 USD",0
+173,Sedán,Honda Civic,17/04/2023,"93.609,00 USD",Mateo Luque,Mendoza,Sucursal Sur,Retrasado,"93.609,00 USD",0
+174,SUV,Ford Escape,24/06/2023,"82.290,00 USD",Ana López,Buenos Aires,Sucursal Norte,Retrasado,"82.290,00 USD",0
+175,Camioneta,Toyota Hilux,11/07/2023,"67.457,00 USD",Ana López,Rosario,Sucursal Oeste,A Tiempo,"67.457,00 USD",0
+176,Camioneta,Toyota Hilux,13/09/2024,"45.514,00 USD",Sofía Gonazalez,Buenos Aires,Sucursal Oeste,A Tiempo,0,"45.514,00 USD"
+177,SUV,Chevrolet Tahoe,06/09/2024,"62.137,00 USD",Mateo Luque,Córdoba,Sucursal Este,A Tiempo,0,"62.137,00 USD"
+178,SUV,Ford Escape,28/09/2024,"88.894,00 USD",Ana López,Mendoza,Sucursal Sur,Retrasado,0,"88.894,00 USD"
+179,Camioneta,Chevrolet S10,23/12/2023,"62.277,00 USD",Laura Díaz,Rosario,Sucursal Norte,Retrasado,"62.277,00 USD",0
+180,Sedán,Toyota Corolla,04/11/2024,"77.096,00 USD",Mateo Luque,Rosario,Sucursal Este,Retrasado,0,"77.096,00 USD"
+181,SUV,Ford Escape,18/05/2024,"87.192,00 USD",Ana López,Córdoba,Sucursal Centro,Retrasado,0,"87.192,00 USD"
+182,Sedán,Honda Civic,01/02/2024,"82.092,00 USD",Laura Díaz,Rosario,Sucursal Sur,A Tiempo,0,"82.092,00 USD"
+183,Sedán,Honda Civic,05/05/2024,"20.588,00 USD",Carlos García,Córdoba,Sucursal Centro,Retrasado,0,"20.588,00 USD"
+184,Sedán,Chevrolet Cruze,26/08/2023,"61.226,00 USD",María Torres,Córdoba,Sucursal Centro,Retrasado,"61.226,00 USD",0
+185,Sedán,Toyota Corolla,14/02/2024,"38.629,00 USD",Sofía Gonazalez,Mendoza,Sucursal Este,Retrasado,0,"38.629,00 USD"
+186,Sedán,Honda Civic,08/07/2023,"36.434,00 USD",Diego Ricci,Rosario,Sucursal Centro,A Tiempo,"36.434,00 USD",0
+187,Sedán,Honda Civic,15/08/2024,"43.621,00 USD",Diego Ricci,Córdoba,Sucursal Centro,A Tiempo,0,"43.621,00 USD"
+188,Camioneta,Chevrolet S10,01/09/2024,"43.212,00 USD",Mateo Luque,Córdoba,Sucursal Norte,A Tiempo,0,"43.212,00 USD"
+189,Camioneta,Ford Ranger,11/05/2023,"79.589,00 USD",Sofía Gonazalez,Rosario,Sucursal Sur,Retrasado,"79.589,00 USD",0
+190,SUV,Chevrolet Tahoe,25/11/2023,"89.359,00 USD",Laura Díaz,Buenos Aires,Sucursal Norte,A Tiempo,"89.359,00 USD",0
+191,Camioneta,Chevrolet S10,15/03/2023,"83.232,00 USD",Mateo Luque,Córdoba,Sucursal Este,Retrasado,"83.232,00 USD",0
+192,SUV,Chevrolet Tahoe,04/04/2024,"85.281,00 USD",Laura Díaz,Buenos Aires,Sucursal Sur,A Tiempo,0,"85.281,00 USD"
+193,Sedán,Toyota Corolla,07/01/2023,"30.484,00 USD",Laura Díaz,Córdoba,Sucursal Centro,Retrasado,"30.484,00 USD",0
+194,Sedán,Chevrolet Cruze,11/10/2024,"69.553,00 USD",Diego Ricci,Rosario,Sucursal Centro,Retrasado,0,"69.553,00 USD"
+195,Camioneta,Chevrolet S10,16/04/2023,"41.966,00 USD",Mateo Luque,Córdoba,Sucursal Este,Retrasado,"41.966,00 USD",0
+196,Sedán,Honda Civic,26/02/2023,"74.242,00 USD",Carlos García,Rosario,Sucursal Centro,A Tiempo,"74.242,00 USD",0
+197,Sedán,Toyota Corolla,01/10/2023,"66.908,00 USD",Ana López,Rosario,Sucursal Oeste,A Tiempo,"66.908,00 USD",0
+198,Sedán,Chevrolet Cruze,26/03/2024,"60.598,00 USD",Diego Ricci,Córdoba,Sucursal Oeste,Retrasado,0,"60.598,00 USD"
+199,SUV,Chevrolet Tahoe,24/05/2024,"66.242,00 USD",Diego Ricci,Buenos Aires,Sucursal Norte,Retrasado,0,"66.242,00 USD"
+200,SUV,Ford Escape,05/11/2023,"71.494,00 USD",Carlos García,Rosario,Sucursal Norte,A Tiempo,"71.494,00 USD",0
+201,Sedán,Toyota Corolla,07/03/2024,"79.831,00 USD",María Torres,Mendoza,Sucursal Centro,A Tiempo,0,"79.831,00 USD"
+202,SUV,Chevrolet Tahoe,02/05/2024,"60.910,00 USD",Diego Ricci,Córdoba,Sucursal Norte,Retrasado,0,"60.910,00 USD"
+203,Sedán,Chevrolet Cruze,15/06/2023,"81.785,00 USD",Mateo Luque,Córdoba,Sucursal Sur,Retrasado,"81.785,00 USD",0
+204,Sedán,Toyota Corolla,15/11/2024,"64.261,00 USD",María Torres,Rosario,Sucursal Norte,A Tiempo,0,"64.261,00 USD"
+205,Sedán,Honda Civic,24/01/2023,"51.795,00 USD",Laura Díaz,Buenos Aires,Sucursal Este,A Tiempo,"51.795,00 USD",0
+206,Camioneta,Chevrolet S10,09/02/2023,"45.747,00 USD",Carlos García,Mendoza,Sucursal Oeste,A Tiempo,"45.747,00 USD",0
+207,Camioneta,Ford Ranger,11/11/2023,"40.723,00 USD",Sofía Gonazalez,Buenos Aires,Sucursal Este,Retrasado,"40.723,00 USD",0
+208,SUV,Ford Escape,26/02/2024,"78.511,00 USD",Diego Ricci,Rosario,Sucursal Centro,A Tiempo,0,"78.511,00 USD"
+209,Sedán,Toyota Corolla,29/11/2023,"22.557,00 USD",María Torres,Córdoba,Sucursal Oeste,A Tiempo,"22.557,00 USD",0
+210,Sedán,Toyota Corolla,28/09/2023,"26.187,00 USD",Mateo Luque,Rosario,Sucursal Centro,A Tiempo,"26.187,00 USD",0
+211,Sedán,Chevrolet Cruze,11/03/2023,"74.884,00 USD",Laura Díaz,Buenos Aires,Sucursal Este,Retrasado,"74.884,00 USD",0
+212,SUV,Ford Escape,18/01/2023,"76.719,00 USD",Laura Díaz,Rosario,Sucursal Este,A Tiempo,"76.719,00 USD",0
+213,Camioneta,Toyota Hilux,13/11/2024,"67.100,00 USD",Laura Díaz,Mendoza,Sucursal Norte,A Tiempo,0,"67.100,00 USD"
+214,Camioneta,Chevrolet S10,10/08/2024,"55.018,00 USD",Carlos García,Mendoza,Sucursal Oeste,A Tiempo,0,"55.018,00 USD"
+215,Camioneta,Toyota Hilux,24/09/2023,"84.760,00 USD",Diego Ricci,Buenos Aires,Sucursal Oeste,Retrasado,"84.760,00 USD",0
+216,Camioneta,Ford Ranger,19/12/2024,"45.533,00 USD",Sofía Gonazalez,Rosario,Sucursal Centro,A Tiempo,0,"45.533,00 USD"
+217,Camioneta,Ford Ranger,31/12/2024,"39.450,00 USD",Carlos García,Rosario,Sucursal Oeste,A Tiempo,0,"80.428,00 USD"
+218,SUV,Ford Escape,27/07/2023,"83.369,00 USD",Carlos García,Mendoza,Sucursal Oeste,Retrasado,"83.369,00 USD",0
+219,SUV,Chevrolet Tahoe,11/08/2024,"75.543,00 USD",Laura Díaz,Mendoza,Sucursal Este,A Tiempo,0,"75.543,00 USD"
+220,SUV,Ford Escape,21/09/2024,"71.318,00 USD",María Torres,Rosario,Sucursal Centro,A Tiempo,0,"71.318,00 USD"
+221,Sedán,Honda Civic,14/01/2023,"53.768,00 USD",Ana López,Rosario,Sucursal Oeste,A Tiempo,"53.768,00 USD",0
+222,Sedán,Honda Civic,11/01/2023,"58.156,00 USD",Ana López,Rosario,Sucursal Sur,Retrasado,"58.156,00 USD",0
+223,SUV,Ford Escape,08/02/2023,"71.366,00 USD",Carlos García,Mendoza,Sucursal Sur,Retrasado,"71.366,00 USD",0
+224,Sedán,Honda Civic,04/09/2023,"24.092,00 USD",María Torres,Córdoba,Sucursal Centro,Retrasado,"24.092,00 USD",0
+225,SUV,Ford Escape,05/03/2023,"85.486,00 USD",Laura Díaz,Mendoza,Sucursal Oeste,A Tiempo,"85.486,00 USD",0
+226,SUV,Ford Escape,24/08/2023,"65.389,00 USD",Laura Díaz,Buenos Aires,Sucursal Este,A Tiempo,"65.389,00 USD",0
+227,Camioneta,Toyota Hilux,11/11/2024,"76.953,00 USD",Carlos García,Buenos Aires,Sucursal Oeste,Retrasado,0,"76.953,00 USD"
+228,Camioneta,Chevrolet S10,12/08/2023,"52.444,00 USD",Ana López,Córdoba,Sucursal Oeste,Retrasado,"52.444,00 USD",0
+229,Camioneta,Chevrolet S10,16/02/2023,"54.809,00 USD",Laura Díaz,Buenos Aires,Sucursal Oeste,Retrasado,"54.809,00 USD",0
+230,Camioneta,Chevrolet S10,08/05/2024,"56.627,00 USD",Diego Ricci,Mendoza,Sucursal Centro,Retrasado,0,"56.627,00 USD"
+231,Sedán,Chevrolet Cruze,07/02/2023,"46.859,00 USD",Ana López,Buenos Aires,Sucursal Este,A Tiempo,"46.859,00 USD",0
+232,Sedán,Chevrolet Cruze,24/05/2023,"21.374,00 USD",Sofía Gonazalez,Buenos Aires,Sucursal Oeste,A Tiempo,"21.374,00 USD",0
+233,Sedán,Chevrolet Cruze,19/11/2024,"68.377,00 USD",Sofía Gonazalez,Mendoza,Sucursal Sur,A Tiempo,0,"68.377,00 USD"
+234,Camioneta,Ford Ranger,15/02/2023,"81.152,00 USD",Ana López,Mendoza,Sucursal Este,A Tiempo,"81.152,00 USD",0
+235,Sedán,Honda Civic,15/01/2023,"77.433,00 USD",Carlos García,Buenos Aires,Sucursal Centro,Retrasado,"77.433,00 USD",0
+236,SUV,Ford Escape,23/08/2024,"65.614,00 USD",Sofía Gonazalez,Córdoba,Sucursal Centro,A Tiempo,0,"65.614,00 USD"
+237,SUV,Chevrolet Tahoe,09/01/2024,"70.961,00 USD",Laura Díaz,Córdoba,Sucursal Oeste,A Tiempo,0,"70.961,00 USD"
+238,Camioneta,Toyota Hilux,17/03/2023,"47.608,00 USD",Laura Díaz,Mendoza,Sucursal Norte,Retrasado,"47.608,00 USD",0
+239,SUV,Chevrolet Tahoe,13/03/2023,"67.529,00 USD",Laura Díaz,Mendoza,Sucursal Oeste,Retrasado,"67.529,00 USD",0
+240,Camioneta,Chevrolet S10,05/10/2024,"34.511,00 USD",María Torres,Rosario,Sucursal Centro,A Tiempo,0,"34.511,00 USD"
+241,Sedán,Chevrolet Cruze,18/02/2023,"54.803,00 USD",Diego Ricci,Mendoza,Sucursal Centro,Retrasado,"54.803,00 USD",0
+242,SUV,Chevrolet Tahoe,06/07/2024,"86.603,00 USD",María Torres,Córdoba,Sucursal Sur,A Tiempo,0,"86.603,00 USD"
+243,Sedán,Chevrolet Cruze,23/03/2023,"24.333,00 USD",María Torres,Córdoba,Sucursal Este,A Tiempo,"24.333,00 USD",0
+244,SUV,Ford Escape,09/10/2024,"88.662,00 USD",Laura Díaz,Mendoza,Sucursal Norte,Retrasado,0,"88.662,00 USD"
+245,Camioneta,Chevrolet S10,07/11/2023,"62.619,00 USD",Mateo Luque,Córdoba,Sucursal Norte,A Tiempo,"62.619,00 USD",0
+246,Camioneta,Ford Ranger,24/01/2024,"63.356,00 USD",Sofía Gonazalez,Buenos Aires,Sucursal Norte,Retrasado,0,"63.356,00 USD"
+247,Camioneta,Chevrolet S10,30/12/2023,"78.428,00 USD",Carlos García,Córdoba,Sucursal Sur,Retrasado,"78.428,00 USD",0
+248,Camioneta,Chevrolet S10,21/09/2023,"78.653,00 USD",Diego Ricci,Buenos Aires,Sucursal Este,Retrasado,"78.653,00 USD",0
+249,SUV,Chevrolet Tahoe,09/01/2023,"87.235,00 USD",Ana López,Rosario,Sucursal Sur,Retrasado,"87.235,00 USD",0
