@@ -14,12 +14,16 @@ Máximo de desaparecidos en un solo incidente: 750 personas.
 
 Máximo de sobrevivientes en un solo incidente: 1,950 personas.
 
+---
+
 ### 📆 **Tendencias en el tiempo**
 El año con más incidentes registrados fue 2022 (2,183 incidentes).
 
 El año con más fallecidos fue 2016 (4,294 fallecidos).
 
 En 2023, los datos aún parecen incompletos (solo 565 incidentes registrados hasta el momento).
+
+---
 
 ### 🌎 **Regiones y Países con más fallecidos**
 ### Top países de origen con más fallecidos:
