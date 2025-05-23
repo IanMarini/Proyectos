@@ -1,67 +1,53 @@
-## 🧠 Storytelling del Proyecto
+# 🚘 Visualización de Ventas en una Concesionaria
 
-### 🎯 Objetivo del Análisis
+En el mundo actual, donde las decisiones deben tomarse con rapidez y precisión, los datos se han convertido en el motor que impulsa la eficiencia y el crecimiento empresarial. Este proyecto nace con el objetivo de demostrar cómo una correcta visualización y análisis de datos puede transformar operaciones comerciales tradicionales en estrategias impulsadas por evidencia.
 
-En un entorno automotriz cada vez más competitivo, contar con información clara y accionable sobre el rendimiento comercial es clave para la toma de decisiones. Este análisis fue desarrollado con el objetivo de ofrecer una **visión integral del negocio de ventas de vehículos** a lo largo de 2023 y 2024, enfocándose en:
+La industria automotriz, y particularmente las concesionarias, enfrentan retos constantes: cambios en la demanda, competencia feroz, retrasos logísticos y la necesidad de adaptarse a las preferencias del consumidor. Este dashboard de Power BI pone en contexto más de 400 registros reales de ventas para responder a una pregunta central:
 
-- La rentabilidad por tipo y modelo de vehículo
-- El desempeño de los agentes de ventas
-- La eficiencia operativa medida por el cumplimiento de entregas
-- La variación geográfica de las ventas por región y sucursal
+🧭 **¿Cómo podemos entender mejor nuestro negocio y tomar decisiones más inteligentes basadas en datos?**
 
 ---
 
-### 🛣 Contexto del Negocio
+## 🔍 Lo que Nos Cuentan los Datos
 
-Una concesionaria nacional opera múltiples sucursales distribuidas en distintas regiones. A través de su equipo de ventas, ofrece una amplia variedad de vehículos: SUV, sedanes y camionetas. El éxito del negocio depende tanto del volumen de ventas como del cumplimiento de los tiempos de entrega y la satisfacción del cliente.
+Cada punto en este dashboard representa una oportunidad: una venta realizada, una entrega cumplida (o no), un cliente satisfecho, o un área donde el negocio puede mejorar. A través del análisis se identificaron patrones que permiten responder preguntas clave como:
 
-Se recolectaron y analizaron más de 400 registros de ventas con variables clave como:
+- ¿Qué tipos de vehículos son más rentables?
+- ¿Qué agentes de ventas se destacan en eficiencia y volumen?
+- ¿Dónde se concentran las entregas retrasadas?
+- ¿Cómo evolucionan las ventas entre 2023 y 2024?
+- ¿Qué regiones muestran más crecimiento comercial?
 
-- Tipo de vehículo, modelo y precio
-- Región y sucursal
-- Agente responsable de la venta
-- Fecha de venta
-- Estado de entrega (a tiempo o retrasado)
+## 📊 Hallazgos Clave
 
----
+### 🚗 Vehículos Más Rentables
+SUVs como el Ford Escape y la Chevrolet Tahoe dominan las ventas, sugiriendo una preferencia por vehículos espaciosos y familiares.
 
-### 🔍 Hallazgos Destacados
+### 🧑‍💼 Agentes Top: Más Allá de los Números
+Mateo Luque y Sofía Morales lideran el ranking de ventas. Sin embargo, no todos los agentes con alto volumen logran buenos índices de entregas a tiempo, lo que abre espacio a mejoras operativas.
 
-- **SUV lideran las ventas**, representando más del 40% del total. Modelos como *Ford Escape* y *Chevrolet Tahoe* se posicionaron como los más vendidos.
-- Las **ventas aumentaron un 12% en 2024** respecto al año anterior, destacando un crecimiento en Córdoba y Mendoza.
-- **Mateo Luque** fue el agente con mayor volumen de ventas, aunque también acumuló más entregas retrasadas.
-- Algunas sucursales del sur del país, si bien tienen menor volumen, alcanzaron un **90% de entregas a tiempo**, lo que las posiciona como referentes en eficiencia operativa.
+### 🌎 Geografía de la Eficiencia
+Regiones como Córdoba y Mendoza presentan un crecimiento constante. Algunas sucursales del sur, aunque con menos volumen, alcanzan estándares logísticos notables en puntualidad.
 
----
+### 📈 Crecimiento Interanual
+El análisis muestra una mejora del 12% en ventas del 2024 respecto al 2023, apuntando a una recuperación o expansión estratégica.
 
-### 📈 Impacto del Análisis
+## 🎯 Más que Visualización: Herramienta de Decisión
 
-Este análisis permite a los tomadores de decisiones:
+Este dashboard no solo organiza datos: los convierte en una **herramienta de negocio**. Permite a directivos, gerentes y analistas:
 
-- **Rediseñar campañas de marketing** según tipo de vehículo y región
-- **Optimizar la logística** enfocándose en modelos o zonas con altos retrasos
-- **Evaluar y capacitar agentes** según su rendimiento individual
-- **Ajustar inventario** de acuerdo con la demanda histórica y proyectada
-
----
-
-### 💡 Recomendaciones Estratégicas
-
-1. **Aumentar el stock de SUV** en las regiones con mayor volumen (Buenos Aires, Córdoba).
-2. **Investigar causas de entregas retrasadas** y estandarizar buenas prácticas logísticas.
-3. **Implementar incentivos para agentes** con alto desempeño y entregas puntuales.
-4. **Replicar el modelo de gestión** de las sucursales con mejor eficiencia en otras zonas.
+- Tomar decisiones basadas en evidencia (data-driven)
+- Optimizar inventario y campañas de marketing
+- Implementar incentivos según desempeño real
+- Mejorar la experiencia del cliente con entregas más puntuales
 
 ---
 
-### 🧩 Siguientes pasos
+## 💡 Reflexión Final
 
-- Incorporar análisis predictivo para estimar ventas futuras
-- Implementar modelos de machine learning para predecir retrasos
-- Expandir el dataset a 2025 con datos reales o simulados
-- Integrar encuestas de satisfacción del cliente
+Este proyecto demuestra cómo el análisis de datos puede impactar directamente en la rentabilidad, la eficiencia y la satisfacción del cliente dentro de una concesionaria automotriz. Al visualizar lo invisible —patrones, ineficiencias, oportunidades—, transformamos hojas de Excel en acciones estratégicas.
 
----
+📢 **Explora el dashboard y descubrí cómo los datos cuentan la historia del negocio.**
 
-📍 *Este proyecto forma parte de mi portafolio profesional como analista de datos, demostrando habilidades en análisis exploratorio, visualización con Power BI y comunicación efectiva de resultados de negocio.*
+#BusinessIntelligence #PowerBI #DataStorytelling #AnálisisDeVentas #Concesionaria #DataDriven
 
